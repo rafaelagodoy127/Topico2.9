@@ -1,0 +1,9 @@
+p {
+    font-size: 22px;
+}
+
+body {
+    background: linear-gradient(to bottom, #3f5738, #000000);
+    color: rgb(32, 26, 26);
+    text-align: center
+}
